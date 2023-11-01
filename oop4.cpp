@@ -1,3 +1,7 @@
+
+Write C++ Program using STL for sorting and searching user defined
+records such as item records using vector container.
+
 #include<iostream>
 #include<fstream>
 using namespace std;
